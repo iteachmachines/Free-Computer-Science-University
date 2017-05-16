@@ -78,6 +78,14 @@ https://competitiveprogrammers.blogspot.in/
 
 2)https://www.coursera.org/learn/machine-learning
 
+# For Deep learning (One of my favourite course ;) )
+
+https://www.udacity.com/course/deep-learning--ud730
+
+# For Artificial Intelligence
+
+https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
+
 # For cyber security basics 
 
 1)https://www.edx.org/course/cyber-security-basics-hands-approach-uc3mx-inf-2x
