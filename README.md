@@ -112,3 +112,7 @@ Read about it can be found here: https://www.quora.com/What-is-GSoC-and-how-does
 # Participate in ACM-ICPC
 
 Details can be found here about how to preapare and what is it https://competitiveprogrammers.blogspot.in/
+
+# Final and most important tip
+
+Do programming daily if you can.
