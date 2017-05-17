@@ -104,3 +104,11 @@ For that take this course to understand about version control.
 - [ ] 1. https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
 So i guess this courses will help everyone for learning CS in both length and breadth.These courses are not short but trust me these are very interesting courses even i am learning CS from these courses.So if anyone wants to contribute,You're welcome.
+
+# Participate in Google Summer of Code
+
+Read about it can be found here: https://www.quora.com/What-is-GSoC-and-how-does-one-apply-for-GSoC
+
+# Participate in ACM-ICPC
+
+Details can be found here about how to preapare and what is it https://competitiveprogrammers.blogspot.in/
