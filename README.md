@@ -68,6 +68,12 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] 1. https://developers.google.com/training/android/
 
+# Learn IOS developement using Swift
+
+- [ ] 1. https://www.udacity.com/course/swift-for-beginners--ud1022
+
+- [ ] 2. https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
+
 # If you're interested in Data science then this courses are for you
 
 - [ ] 1. https://www.datacamp.com/tracks/data-scientist-with-python
