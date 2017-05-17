@@ -43,6 +43,10 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] 2. Read about all the algorithms and data structure here(if you can :P):http://wcipeg.com/wiki/Special:AllPages
 
+- [ ] 3. https://www.coursera.org/learn/algorithms-part1
+
+- [ ] 4. https://www.coursera.org/learn/algorithms-part2
+
 # Do competitive programming
 
  This blog will tell you everything related to competitive programming.
