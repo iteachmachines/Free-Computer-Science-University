@@ -107,6 +107,8 @@ For that take this course to understand about version control.
 
 - [ ] 1. https://www.udacity.com/course/how-to-use-git-and-github--ud775
 
+- [ ] 2. https://www.codecademy.com/learn/learn-git
+
 So i guess this courses will help everyone for learning CS in both length and breadth.These courses are not short but trust me these are very interesting courses even i am learning CS from these courses.So if anyone wants to contribute,You're welcome.
 
 # Participate in Google Summer of Code
