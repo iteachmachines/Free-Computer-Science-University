@@ -1,6 +1,7 @@
 # Free-Computer-Science-University
 
 So after watching all the resources i thaught to put all the important technical courses in one place.And help those people who wants to learn computer science.Keep track of Progress using the Task lists. And yeah all the courses are free.:D
+So start following these courses i can't guarantee you that you'll have job but i can asure you that you'll have deep understanding about computer Science.So Good luck!
 
 
 # For introductory computer Science:-
