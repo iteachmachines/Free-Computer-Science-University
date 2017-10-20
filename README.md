@@ -102,6 +102,7 @@ https://www.codecademy.com/learn/javascript
 # For cyber security basics 
 
 - [ ] 1. https://www.edx.org/course/cyber-security-basics-hands-approach-uc3mx-inf-2x
+- [ ] 2. https://www.cybrary.it/cyber-security/
 
 # Work on a small piece of a large system (codebase), read and understand existing code, track down documentation, and debug
 For that take this course to understand about version control.
