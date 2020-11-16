@@ -1,7 +1,7 @@
 # Free-Computer-Science-University
 
-So after watching all the resources I thaught to put all the important technical courses in one place and help those people who want to learn computer science.Keep track of Progress using the Task lists and yeah all the courses are free.:D
-So start following these courses. I can't guarantee you that you'll get a job but I can assure you that you'll have deep understanding about computer Science Even I am following this syllabus and believed me everyday i learn something new.And i would like to thank all the contributors who have helped to make this project better.Goodluck everyone!
+So after watching all the resources, I thought to put all the important technical courses in one place and help those people who want to learn computer science. Keep track of Progress using the Task lists and yeah all the courses are free.:D
+So start following these courses. I can't guarantee you that you'll get a job but I can assure you that you'll have deep understanding about Computer Science. Even I am following this syllabus and believe me, everyday I learn something new. And I would like to thank all the contributors who have helped to make this project better. Good luck everyone!
                                                                                                  Project founder-Priyam Kakati.
 
 
@@ -39,7 +39,7 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] 2. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm (focus in this course very nicely)
 
-# Develop a strong understanding of algorithms and data structures(very important)
+# Develop a strong understanding of algorithms and data structures (very important)
 
 - [ ] 1. Course by MIT:https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/index.htm
 
@@ -55,7 +55,7 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] https://competitiveprogrammers.blogspot.in/
 
-# Learn about computer networing 
+# Learn about computer networking 
 - [ ] 1. https://www.udacity.com/course/computer-networking--ud436
 
 - [ ] 2. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/
@@ -64,7 +64,7 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] 1. https://www.udacity.com/course/introduction-to-operating-systems--ud923
 
-# Learn full stack web development(Do both if you can)	
+# Learn full stack web development (Do both if you can)	
 
 - [ ] 1. https://www.codecademy.com/en/tracks/code-year
 
@@ -80,7 +80,7 @@ https://www.codecademy.com/learn/javascript
 
 - [ ] 2. https://www.udacity.com/course/intro-to-ios-app-development-with-swift--ud585
 
-# If you're interested in Data science then this courses are for you
+# If you're interested in Data science then these courses are for you
 
 - [ ] 1. https://www.datacamp.com/tracks/data-scientist-with-python
 
@@ -112,7 +112,7 @@ For that take this course to understand about version control.
 
 - [ ] 2. https://www.codecademy.com/learn/learn-git
 
-So i guess this courses will help everyone for learning CS in both length and breadth.These courses are not short but trust me these are very interesting courses even i am learning CS from these courses.So if anyone wants to contribute,You're welcome.
+So I guess these courses will help everyone for learning CS in both length and breadth. These courses are not short but trust me these are very interesting courses. Even I am learning CS from these courses. So if anyone wants to contribute, you're welcome.
 
 # Do Internships in your interested position
 
