@@ -2,7 +2,7 @@
 
 So after watching all the resources, I thought to put all the important technical courses in one place and help those people who want to learn computer science. Keep track of Progress using the Task lists and yeah all the courses are free.:D
 So start following these courses. I can't guarantee you that you'll get a job but I can assure you that you'll have deep understanding about Computer Science. Even I am following this syllabus and believe me, everyday I learn something new. And I would like to thank all the contributors who have helped to make this project better. Good luck everyone!
-                                                                                                 Project founder-Priyam Kakati.
+                                                                                                 
 
 
 # For introductory computer Science:-
